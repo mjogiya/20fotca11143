@@ -433,7 +433,8 @@ i.linkedin:hover , .linkedin_hover{
     background-color: #2867B2;
     color: white;
     
-}i.snapchat:hover , .snapchat_hover{
+}
+i.snapchat:hover , .snapchat_hover{
     background-color: #fefe00c5;
     color: white;
 
@@ -442,7 +443,8 @@ i.skype:hover , .skype-hover{
     background-color: #00aff0 ;
     color: white;
     
-}i.stackoverflow:hover , .stackoverflow-hover{
+}
+i.stackoverflow:hover , .stackoverflow-hover{
     background-color: rgba(0, 0, 0, 0.863);
     color: white;
 
