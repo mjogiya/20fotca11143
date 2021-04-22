@@ -49,7 +49,7 @@ $(document).ready(function () {
     });
 
     $(".facebook").hover(function(){
-        $(".facebook-hover").toggle(200);
+        $(".facebook_hover").toggle(200);
     });
 
     $(".instagram").hover(function(){
